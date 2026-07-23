@@ -17,3 +17,6 @@ GFL GFM toy models
 'GFL_GFM'
 GFL + GFM
 - this isn't quite perfect yet as it isn't quite equilibrated initially. I was also trying replicate Fig 18 in the paper but not got there yet
+
+
+- could also see if these models correlate with the stability quadratic sketches in Fig 16 RHS
